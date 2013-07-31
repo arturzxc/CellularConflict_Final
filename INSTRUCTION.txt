@@ -1,9 +1,0 @@
-This is a NetBeans build.
-
-The documentation is in dist/javadoc
-
-jar file is in dist/
-
-IMPORTANT
-The objects can be on the scene can be selected by dragging mouse over them and
-then they can be ordered to where you right-click.
